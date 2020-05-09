@@ -1,0 +1,35 @@
+{
+  "name": "markdown-it-tex-webcomponents",
+  "version": "1.0.0",
+  "description": "Componentize TeX blocks in markdown.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hilookas/markdown-it-tex-webcomponents.git"
+  },
+  "keywords": [
+    "markdown",
+    "markdown-it",
+    "markdown-it-plugin",
+    "plugin",
+    "TeX",
+    "LaTeX",
+    "KaTeX",
+    "webcomponents",
+    "vue",
+    "react"
+  ],
+  "author": "lookas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hilookas/markdown-it-tex-webcomponents/issues"
+  },
+  "homepage": "https://github.com/hilookas/markdown-it-tex-webcomponents#readme",
+  "dependencies": {
+    "markdown-it": "^10.0.0",
+    "markdown-it-texmath": "^0.6.7"
+  }
+}
